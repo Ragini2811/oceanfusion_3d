@@ -1,0 +1,1 @@
+curl.exe -o data\glider\sea037\sea037_20250918_R.nc "ftp://ftp.ifremer.fr/ifremer/glider/v2/sea037/sea037_20250918/sea037_20250918_R.nc"
